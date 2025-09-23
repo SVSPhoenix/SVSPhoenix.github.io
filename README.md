@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Blender </title>
+
 <head>
 
 <body style="background-color:powderblue;">
