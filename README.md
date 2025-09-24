@@ -13,7 +13,7 @@
 <p>The problem is that most companies have Maya intergrated into their pipeline, and it would take time and money to completely change their workflow to support blender. Furthermore, for video game companies specifically, you can directly export animations and models from Maya to Unreal Engine, whereas Blender requires more finesse and time. Lastly, while Blender is open-source, it does not have a team of troublshooters whose job it is to answer questions about bugs and glitches. If you use Blender, you can go to a thread and hope someone knows why your model looks like a block of cheese. If you were using Maya, the support team could tell you that you are just awful at modelling. </p>
 
 <p>If you like Blender, here is an Link:</p>
- <a> href="https://blender.com/">Download Blender</a> 
+ <a href="https://blender.com/">Download Blender</a> 
 </body>
 
 </html>
