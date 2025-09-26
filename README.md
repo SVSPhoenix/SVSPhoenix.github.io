@@ -6,7 +6,8 @@
 </head>
 
 <body style="background-color:white;">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7sGbKOLtCBg">
+<iframe width="420" height="315" 
+src="https://www.youtube.com/embed/watch?v=7sGbKOLtCBg">
 </iframe> 
 
 <a href="https://www.youtube.com/@BlackPhoenix-d2u/videos">My Channel</a> 
