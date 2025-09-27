@@ -8,7 +8,7 @@
 
 <body style="background-color:white;">
 
-<video width="500" autoplay loop>
+<video width="500" height="320" autoplay loop>
   <source src="0000-0049.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
