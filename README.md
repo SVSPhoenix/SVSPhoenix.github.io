@@ -7,11 +7,8 @@
 </head>
 
 <body style="background-color:white;">
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+
+<video autoplay loop src="0000-0049.mp4" width="500"></video>
 
 <a href="https://www.youtube.com/@BlackPhoenix-d2u/videos">My Channel</a> 
 </body>
