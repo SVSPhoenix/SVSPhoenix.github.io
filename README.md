@@ -8,7 +8,10 @@
 
 <body style="background-color:white;">
 
-<video autoplay loop src="0000-0049.mp4" width="500"></video>
+<video width="500" autoplay loop>
+  <source src="0000-0049.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <a href="https://www.youtube.com/@BlackPhoenix-d2u/videos">My Channel</a> 
 </body>
